@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
 body{
     display: flex;
     justify-content: center;
@@ -9,5 +11,10 @@ main {
 }
 
 p {
-    margin-top: 0.5rem;
+    padding-top: 0.8rem;
+    font-family: 'Coming Soon', cursive;
+}
+
+h1{
+    font-family: 'Fredericka the Great', cursive;
 }

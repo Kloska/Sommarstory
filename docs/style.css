@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 40rem;
+}

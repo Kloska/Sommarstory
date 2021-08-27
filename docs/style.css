@@ -7,3 +7,7 @@ main {
     padding-right: 1rem;
     max-width: 40rem;
 }
+
+p {
+    margin-top: 0.5rem;
+}
